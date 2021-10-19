@@ -1,0 +1,32 @@
+h2{
+    margin: 5px 10px 6px 2px;
+}
+#feature-im
+{
+
+   padding-left: 350px;
+   margin: -370px 0px -10px 500px;
+ }
+ #header, #form,  #footer
+ {
+    margin:25px 0px 0px 300px;
+ }
+#Border{
+    align-content: center;
+    
+}
+.Content{
+    
+    align-content: center;
+}
+#Text{
+    border: none;
+    border-bottom: 2px solid ;
+}
+a{  
+       margin-left: 160px;
+    border:solid ;
+ }
+#Fieldset{
+    align-content: center;
+}
